@@ -1,0 +1,9 @@
+#whitepaper {height: 120px;}
+#whitepaper img{position: absolute; left:10px; top: 9px;}
+#whitepaper h3{position: absolute; left: 95px; top: 13px; font-size:13px; margin-bottom:6px;}
+#whitepaper p{padding-top:25px ;position: absolute; left: 95px;}
+#whitepaper .download-now{background:url(../images/button-download-now.jpg) no-repeat; display:block; height:30px; position:absolute; left:95px; text-indent:-9999em; top:84px; width:123px;}
+
+#tabs #sidebar-tabs li.active {border: none;}
+#tabs #sidebar-tabs {border: none;}
+#tabs #sidebar-tabs ul {margin-top: -4px;}

@@ -1,0 +1,65 @@
+/*
+*********************** Gallery ****************/
+.content .gallery {
+  margin: 20px 0;
+  padding: 20px 0 0 0;
+  border-top: 1px solid #ccc;
+}
+  .content .gallery li {
+    display: inline;
+    float: left;
+    margin: 0 20px 20px 0;
+    width: 125px;
+    height: 100px;
+    overflow: hidden;
+  }
+    .content .gallery li img {
+      border: none;
+      padding: none;
+  }
+
+/*
+*********************** Post Meta ****************/
+.meta {
+    font-size:11px;
+}
+.meta nav {
+    display: inline;
+}
+
+
+/*
+*********************** Pagination ****************/
+.pagination a {
+  margin-right: 10px;
+}
+
+/*
+*********************** Search ****************/
+#searchterms {
+  display: inline;
+  width: 300px;
+  padding: 5px 10px;
+  font-size: 14px;
+  height: 20px;
+}
+#searchbutton {
+  display: inline;
+  padding: 8px 10px;
+  font-size: 14px;
+  line-height: 30px;
+  height: 36px;
+}
+#results {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+  #results li {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eee;
+  }
+    #results li p {
+      margin-bottom: 0;
+    }
